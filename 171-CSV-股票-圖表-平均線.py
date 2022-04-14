@@ -1,6 +1,7 @@
-
-#!/usr/bin/env
 __author__ = "Powen Ko, www.powenko.com"
+"""
+你好， 我是柯博文老師
+"""
 
 import matplotlib.pyplot as plt
 import csv
